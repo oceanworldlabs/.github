@@ -12,3 +12,5 @@ Ocean World Labs builds simulation infrastructure, foundation models, and embodi
 - **Ocean Menagerie:** simulation-ready robots, environments, and offshore assets.
 - **Ocean World Models:** foundation models for ocean dynamics, perception, and interaction.
 - **Embodied AI:** general-purpose intelligence for robots operating in complex ocean environments.
+
+**Build the future of ocean intelligence with us.**
