@@ -1,31 +1,16 @@
 # Ocean World Labs
 
-**The world model for the ocean**
+**Frontier AI for the ocean.**
 
-For machines to understand, predict, and act in the ocean
+Ocean World Labs builds simulation infrastructure, foundation models, and embodied intelligence for the ocean.
 
-![Ocean simulation transitioning into a real underwater system](./assets/ocean-sim2real-hero-v1.png)
+[Website](https://oceanworldlabs.ai) · [Contact](mailto:info@oceanworldlabs.ai)
 
-High-fidelity ocean simulation is the foundation. The Ocean World Model is the core. Ocean embodied intelligence is the goal.
+## Building
 
-## Foundation
+- **OceanScale:** the GPU-native virtual ocean for underwater robotics.
+- **Ocean Menagerie:** simulation-ready robots, environments, and offshore assets.
+- **Ocean World Models:** foundation models for ocean dynamics, perception, and interaction.
+- **Embodied AI:** general-purpose intelligence for robots operating in complex ocean environments.
 
-**OceanScale** is a working GPU-native alpha for controllable, reproducible ocean simulation, structured data generation, and evaluation. External physics validation remains in progress.
-
-## Core
-
-**Ocean World Model** is our internal, unreleased R&D into ocean-state evolution, action consequences, and future trajectories.
-
-## Goal
-
-**Ocean embodied intelligence** means machines that can understand changing ocean conditions, predict what follows, and act across dynamic ocean environments.
-
-## NVIDIA technology path
-
-OceanScale uses CUDA, RTX, Warp, and Newton, with PyTorch for learning workflows. Our validation path includes OpenUSD, Omniverse, Isaac Sim 6, and Isaac Lab 3. NVIDIA Cosmos 3 is part of our internal world-model R&D path. This is technology adoption, not a claim of partnership or endorsement.
-
-## Open direction
-
-We intend to contribute open reference assets, datasets, benchmarks, and evaluation protocols that make ocean robotics research more reproducible.
-
-[Website](https://oceanworldlabs.ai) | [Contact](mailto:info@oceanworldlabs.ai)
+**Build the future of ocean intelligence with us.**
