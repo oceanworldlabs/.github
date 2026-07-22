@@ -7,9 +7,9 @@ embodied intelligence. Ocean simulation built for fidelity and scale is the
 foundation. The Ocean World Model is the core. Ocean embodied intelligence is
 the destination.
 
-<img src="./assets/oceanscale-bluerov2-pathtracing.png" alt="Underwater robot running in an OceanScale Isaac Sim scene" width="100%">
+<img src="./assets/ocean-world-model-concept-v2.png" alt="Concept visualization of an ocean world model around a civilian underwater robot" width="100%">
 
-<sub>Real simulator output · Isaac Sim 6 · PathTracing · OceanScale scene</sub>
+<sub>Concept visualization · Ocean World Model direction</sub>
 
 ## The system
 
@@ -28,8 +28,13 @@ the destination.
 - One anonymized paid pre-sea-trial simulation engagement completed; additional
   paid pilots in discussion
 
-The benchmark is workload-specific and is not a universal performance claim.
+The benchmark measures environment steps and excludes rendering and the complete
+sensor chain. It is workload-specific and is not a universal performance claim.
 Customer identity and private field material are not disclosed.
+
+<img src="./assets/oceanscale-bluerov2-pathtracing.png" alt="Underwater robot running in an OceanScale Isaac Sim scene" width="100%">
+
+<sub>Real simulator output · Isaac Sim 6 · PathTracing · OceanScale scene</sub>
 
 ## NVIDIA technology path
 
