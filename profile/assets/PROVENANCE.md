@@ -1,5 +1,20 @@
 # Public Media Provenance
 
+## Ocean Industries World Model Concept v1
+
+- File: `ocean-industries-world-model-concept-v1.png`
+- Generator: OpenAI GPT Image 2
+- Generated: July 22, 2026
+- SHA-256:
+  `64ce3ca0ae077766bae275f939001269c418477910e9983e604393c79076fb00`
+- Intended use: company category, ocean-industry expansion, and long-term Ocean
+  World Model direction
+- Civilian visual scope: underwater robotics, offshore wind, subsea energy, and
+  communications infrastructure
+
+This image is a concept visualization. It is not OceanScale output, Ocean World
+Model output, a customer scene, a sea trial, or proof of deployment.
+
 ## Ocean World Model Concept v2
 
 - File: `ocean-world-model-concept-v2.png`
